@@ -1,4 +1,5 @@
 # CHAT COM SOCKET.io
+![home](public/home.png)
 
 ## Iniciando a Aplicação
   - Para iniciar o projeto rodamos o comando a seguir para criar o nosso package.json.
