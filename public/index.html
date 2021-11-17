@@ -23,7 +23,7 @@
     <button type="submit">Enviar</button>
   </form>
   <script type="text/javascript">
-    var socket = io('http://localhost:3000');
+    var socket = io('https://realtime-cw.herokuapp.com/' || 'http://localhost:3000');
     var username;
     $(function(){
       username = localStorage.getItem('realtime@username') ?? '';
